@@ -21,7 +21,7 @@ CS330 - project.
 - [@alaridisarah](https://www.github.com/alaridisarah)
 - [@SarahAlsarami](https://www.github.com/SarahAlsarami)
 - [@Asiaalrajeh](https://www.github.com/Asiaalrajeh)
-- [@SadeesmAlq](https://www.github.com/SadeesmAlq)
+- [@SadeemAlq](https://www.github.com/SadeemAlq)
 
 
 
