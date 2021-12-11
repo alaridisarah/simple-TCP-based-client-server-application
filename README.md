@@ -15,3 +15,15 @@ encrypted using a shared encryption key.
 
 
 CS330 - project.
+
+## Authors
+
+- [@alaridisarah](https://www.github.com/alaridisarah)
+- [@SarahAlsarami](https://www.github.com/SarahAlsarami)
+- [@Asiaalrajeh](https://www.github.com/Asiaalrajeh)
+- [@SadeesmAlq](https://www.github.com/SadeesmAlq)
+
+
+
+
+
